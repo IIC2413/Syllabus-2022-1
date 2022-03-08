@@ -80,14 +80,25 @@ Semana	| Contenido clase						  |	Ayudantía
 
 Fecha      | Evaluación
 -----------|------------
-      | 
+ 21/03/2022   | Enunciado C1
+ 23/03/2022   | Entrega C1
+ 25/04/2022   | Enunciado C2
+ 27/04/2022   | Entrega C2
+ 06/06/2022   | Enunciado C3
+ 09/06/2022   | Entrega C3
+ 
 
 
 ### Proyecto
 
 Fecha      | Evaluación
 -----------|------------
-      | 
+ 23/03/2022   | Enunciado P1
+ 08/04/2022   | Entrega P1
+ 13/04/2022   | Enunciado P2
+ 13/05/2022   | Entrega P2
+ 18/05/2022   | Enunciado P3
+ 17/06/2022   | Entrega P3
 
 
 ---
