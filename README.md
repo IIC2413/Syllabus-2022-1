@@ -62,8 +62,8 @@ Semana	| Contenido clase						  |	Ayudantía
 #6      |Modelo ER II 			  |
 #7      |Dependencias, Anomalías,  normales |	Ayudantía 3 (PHP)
 #8      |Lógica en la BD						  |
-#9      |Storage, Indexing               		  |
-#10      |Evaluación de consultas							  |	Ayudantía 4 (C2)
+#9      |Storage, Indexing               		  | Ayudantía 4 (P2)
+#10      |Evaluación de consultas							  |	
 #11     |Transacciones y recuperación de fallas   |
 #12     |Privacidad						  |
 #13     |Data Science y SQL						  |
