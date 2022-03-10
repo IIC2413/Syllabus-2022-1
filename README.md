@@ -71,7 +71,7 @@ Semana	| Contenido clase						  |	Ayudantía
 #16     |No hay clases							  |
 
 ### Bibliografía 
-Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
+- Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
 
 ---
 
