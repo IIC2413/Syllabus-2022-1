@@ -6,6 +6,7 @@
   - [Profesores](#profesores)
   - [Ayudantes](#ayudantes)
 - [Contenidos](#contenidos)
+  - [Bilbiografía](#bibliografía) 
 - [Calendario](#calendario-evaluaciones)
 - [Evaluaciones](#evaluaciones)
 - [Resumen de notas](#resumen-de-notas)
@@ -13,8 +14,6 @@
 - [Política de integridad académica](#política-de-integridad-académica)
 
 ---
-
-
 
 ## Equipo
 
@@ -71,6 +70,8 @@ Semana	| Contenido clase						  |	Ayudantía
 #15     |Data Engineering								  |
 #16     |No hay clases							  |
 
+### Bibliografía 
+Database Management Systems, 3rd edition, de Raghu Ramakrishnan y Johannes Gehrke.
 
 ---
 
