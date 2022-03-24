@@ -30,7 +30,7 @@ Los puntajes asignados son los siguientes:
 - **Consulta correcta** quiere decir que posea una sintaxis correcta y que sea atingente a las tablas presentadas en el esquema. Por otro lado, **Consulta Funcional** quiere decir que, al realizar la consulta en el servidor, esta debería funcionar correctamente y retornar un resultado coherente.
 - Recuerda que el esquema que tengas que trabajar depende de la paridad de el número de tu grupo. 
 - Recuerda usar los issues para ir resolviendo dudas.
-- Recomendamos ver los videos de la ayudantía y la wiki del curso
+- Recomendamos ver la wiki del curso, la que será añadida después de la ayudantía del 25 de marzo
 
 ### Formato de Entrega esperado
 
