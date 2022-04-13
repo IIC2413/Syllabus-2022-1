@@ -3,6 +3,8 @@
 Fecha           | Hora      |  Modificación
 ---------------- |--------- |--------------- 
 29-03-2022       | 15:00    | Se cambian de  orden las consultas 3 y 5 de los grupos impares
+13-04-2022       | 17:00    | Se corrige y aclara enunciado
+
 
 # Rúbrica E1
 
