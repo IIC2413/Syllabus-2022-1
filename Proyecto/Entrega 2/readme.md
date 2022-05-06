@@ -1,3 +1,10 @@
+# Historial de Cambios en los datos
+
+Fecha           | Hora      |  Modificación
+---------------- |--------- |--------------- 
+06-05-2022       | 12:00    | IMPARES: Se elimina la columna aerolinea del archivo reservas, ver issue [#127](https://github.com/IIC2413/Syllabus-2022-1/issues/127)
+06-05-2022       | 12:00    | PARES:   Se corrige el archivo aeropuertos para evitar repeticiones de puertos de salida y pistas, ver issue [#133](https://github.com/IIC2413/Syllabus-2022-1/issues/133)
+
 # Rúbrica E2
 
 ## Puntajes (78 pts): 
