@@ -5,7 +5,7 @@
     <title>Secure page</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" />
     <link href="/~profesor/static/css/main.82416d16.chunk.css" rel="stylesheet">
-    <!-- https://github.com/IIC2413/Syllabus-2021-2/tree/master/Gu%C3%ADas/sources/Sites -->
+    <!-- https://github.com/IIC2413/Syllabus-2021-2/tree/master/Guias/sources -->
 </head>
 <body>
    <div id="root"></div>
