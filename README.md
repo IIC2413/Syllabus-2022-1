@@ -98,8 +98,8 @@ Fecha      | Evaluación
  08/04/2022   | Entrega P1
  18/04/2022   | Enunciado P2
  20/05/2022   | Entrega P2
- 18/05/2022   | Enunciado P3
- 17/06/2022   | Entrega P3
+ *25/05/2022*   | Enunciado P3
+ *24/06/2022*   | Entrega P3
 
 
 ---
