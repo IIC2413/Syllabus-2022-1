@@ -2,16 +2,22 @@
 
 ## Tabla de contenidos
 
-- [Equipo](#equipo)
-  - [Profesores](#profesores)
-  - [Ayudantes](#ayudantes)
-- [Contenidos](#contenidos)
-  - [Bilbiografía](#bibliografía) 
-- [Calendario](#calendario-evaluaciones)
-- [Evaluaciones](#evaluaciones)
-- [Resumen de notas](#resumen-de-notas)
-- [Foro](#foro)
-- [Política de integridad académica](#política-de-integridad-académica)
+- [IIC2413 - Bases de Datos](#iic2413---bases-de-datos)
+  - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Equipo](#equipo)
+    - [Profesores](#profesores)
+    - [Cuerpo de ayudantes](#cuerpo-de-ayudantes)
+      - [Jefes](#jefes)
+      - [Ayudantes](#ayudantes)
+  - [Contenidos](#contenidos)
+    - [Bibliografía](#bibliografía)
+  - [Calendario Evaluaciones](#calendario-evaluaciones)
+    - [Controles](#controles)
+    - [Proyecto](#proyecto)
+  - [Evaluaciones](#evaluaciones)
+  - [## Resumen de notas](#-resumen-de-notas)
+  - [Foro](#foro)
+  - [Política de integridad académica](#política-de-integridad-académica)
 
 ---
 
@@ -36,7 +42,25 @@ Andrés Pincheira | Proyecto | [arpincheira@uc.cl]
 
 #### Ayudantes
 
-WIP
+Nombre           | Email
+---------------- | ----------------
+Nicolás Barría  | nbarriav@uc.cl
+Heinz Busch | hwbusch@uc.cl
+Gary Fredes | gary.fredes@uc.cl
+Sebastián León | sileon@uc.cl
+Sebastian Morales | smoralesc8@uc.cl
+Ignacio Muñoz | itmunoz1@uc.cl
+Jonathan Riquelme | j.riquelme@uc.cl
+Daniel Sebastian | daniel.sebastian@uc.cl
+Mauricio Solís | mrsolis@uc.cl
+Andrés Tamm | andrestamm@uc.cl
+Bryan Acevedo | bkacevedo@uc.cl
+Francisca Ancic | francisca.ancic@uc.cl
+Camila Carrasco | cicarrasco5@uc.cl
+María José Marza | mmarza@uc.cl
+Pablo Alvarez| paalvarez3@uc.cl
+Javier Calderon | javier.caldern@uc.cl
+Lucas Palacios | lpalacios1@uc.cl
 
 
 [dvrgoc@ing.puc.cl]: mailto:dvrgoc@ing.puc.cl
