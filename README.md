@@ -154,7 +154,9 @@ calcula como NF = (0,5 NCE + 0,5 NP). En caso contrario, NF = mín{NCE , NP}.
 ---
 
 ## Resumen de notas
+
 https://docs.google.com/spreadsheets/d/1J1q71lxpg1fo28u5MBsPUC1gLe10CIfcp_y_ecv05aw/edit?usp=sharing
+
 ---
 
 ## Foro
