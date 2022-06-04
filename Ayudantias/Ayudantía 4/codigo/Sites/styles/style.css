@@ -1,0 +1,8 @@
+/* Clase para añadir una imagen en el hero de index.php */
+/* Para el proyecto no la necesitan! */
+.pokebaner {
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.5), rgb(17 45 8 / 35%)),
+        url("https://fondosmil.com/fondo/14762.jpg");
+    background-position: 5% 55%;
+}
