@@ -7,3 +7,7 @@ Es un error. La pregunta 5 son dos partes (a) y (b). La segunda pregunta 5 (b) l
 
 Lo que se busca es que ustedes encuentren individuos que al filtrar por sus quasi-identificadores, te de solomente 1 individuo como respuesta. Adicionalmente se busca que ademas su atributo sensible te de 0 (no votó).
 Se cambió la forma en que se hace la pregunta: "Indique todos los atributos de 5 individuos que no hayan votado en el plebiscito y que pueda de-identificar usando los quasi-identificadores con 100% de certeza."
+
+## ¿A que se refiere con "Asegurese de no devolver resultados" en la pregunta 7?
+
+Fue un error, y ya no dice eso el enunciado.
