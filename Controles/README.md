@@ -21,3 +21,6 @@ Fue un error, y ya no dice eso el enunciado.
  - p6: 0,4
  - p7: 1
  - p8: 1
+
+## Pregunta 4 errata:
+Cambiar de-identificar por re-identificar.
