@@ -11,3 +11,13 @@ Se cambió la forma en que se hace la pregunta: "Indique todos los atributos de 
 ## ¿A que se refiere con "Asegurese de no devolver resultados" en la pregunta 7?
 
 Fue un error, y ya no dice eso el enunciado.
+
+## Distribución de puntajes:
+ - p1: 0,3
+ - p2 0,3
+ - p3: 1
+ - p4: 1
+ - p5: 1
+ - p6: 0,4
+ - p7: 1
+ - p8: 1
