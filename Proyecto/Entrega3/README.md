@@ -4,6 +4,10 @@
 - [Wiki del curso](https://github.com/IIC2413/Syllabus-2022-1/wiki)
 - [Documentación de procedimientos almacenados](https://www.postgresql.org/docs/10/sql-createfunction.html)
 
+### Modificaciones a la rúbrica
+
+- 11/06/2022: Se añaden especificaciones en el procedimiento almacenado solicitado y se modifica el criterio de feedback solicitados ante la imposibilidad de importar un usuario. 
+
 # Rúbrica Entrega 3
 
 ## Puntaje Total (75 pts):
@@ -23,7 +27,7 @@ Los puntajes asignados son los siguientes:
         - **(1 pto)** Debe ser capaz de agregar contraseñas **aleatorias*** a los usuarios del tipo compañía aerea. 
         - **(2 pts)** Debe ser capaz de crear usuarios del tipo pasajero cuyo username sea su número de pasaporte en el caso de que no existan ya en la tabla de usuarios y ser capaz de verificar esto último.
         - **(2 pts)** Debe ser capaz de agregar una contraseña a los usuarios de tipo pasajero según los criterios solicitados.
-        - **(2 pts)** En caso de haber un error o que no se puedan importar X usuarios se debe mostrar un mensaje que lo indique junto con el detalle del usuario que no se ha podido importar
+        - **(2 pts)** En caso dd que no se puedan importar X usuarios, ya sea por un error o por no cumplir las condiciones de importación indicadas en el enunciado, se debe mostrar un mensaje que indique número usuarios de cada tipo que no se han podido importar.
         - **(1 pto)** Por acceder a dicha función con un botón ubicado en la página inicial de la aplicación.
 
 *Cuando se habla de una contraseña aleatoria se refiere a una contraseña con un determinado grado de aleatoriedad sin basarse necesariamente en los datos propios de una entidad, **no es válido ocupar un dato como contraseña ni añadir algo del tipo** datoXX, XXdato, datoXXdato, etc....
@@ -44,7 +48,7 @@ Los puntajes asignados son los siguientes:
         - **Función de reserva:** puntaje a detallar en apartado de procedimiento almacenado. Notar que las verificaciones deben ser realizadas en el procedimiento almacenado y no en la vista.
 
 * **(22 pts) Procedimiento Almacenado:** 
-    * **(8 pts) Definición de archivos**: Se entrega uno o más archivos con la extensión `.sql` los cuales definen un procedimiento almacenado utilizando `plpgSQL` y cumple con todas las funcionalidades solicitadas por el enunciado. Notar que el puntaje de este apartado es por logro.
+    * **(8 pts) Definición de archivos**: Se entrega uno o más archivos con la extensión `.sql` los cuales definen un procedimiento almacenado utilizando `plpgSQL` y cumple con todas las funcionalidades solicitadas por el enunciado. Notar que en este apartado el puntaje es por logro y que se hace referencia al procedimiento correspondiente a la **función de reserva** de los usuarios del tipo pasajero, otros procedidimientos almacenados no entran en esta categoría.
     * **(14 pts) Funcionamiento web**: Se requiere que el input solicitado en este apartado cumpla con lo pedido por el enunciado, que se llame correctamente al procedimiento almacenado, que se despliegue y guarde correctamente la información de la reserva generada. Notar que el puntaje de este apartado se divide en puntaje por implentación previa al procedimiento y puntaje por implementación posterior al procedimiento (este último depende de que el procedimiento funcione correctamente).
 
 * **(5 pts) Funcionalidad Adicional** Se debe añadir una funcionalidad adicional que logre dar realmente valor a la aplicación (no, los _rickrolls_ y otros _easter egg_ no garantizan puntaje en este apartado)
