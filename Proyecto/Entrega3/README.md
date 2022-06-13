@@ -27,7 +27,7 @@ Los puntajes asignados son los siguientes:
         - **(1 pto)** Debe ser capaz de agregar contraseñas **aleatorias*** a los usuarios del tipo compañía aerea. 
         - **(2 pts)** Debe ser capaz de crear usuarios del tipo pasajero cuyo username sea su número de pasaporte en el caso de que no existan ya en la tabla de usuarios y ser capaz de verificar esto último.
         - **(2 pts)** Debe ser capaz de agregar una contraseña a los usuarios de tipo pasajero según los criterios solicitados.
-        - **(2 pts)** En caso dd que no se puedan importar X usuarios, ya sea por un error o por no cumplir las condiciones de importación indicadas en el enunciado, se debe mostrar un mensaje que indique número usuarios de cada tipo que no se han podido importar.
+        - **(2 pts)** En caso de que no se puedan importar X usuarios, ya sea por un error o por no cumplir las condiciones de importación indicadas en el enunciado, se debe mostrar un mensaje que indique número usuarios de cada tipo que no se han podido importar.
         - **(1 pto)** Por acceder a dicha función con un botón ubicado en la página inicial de la aplicación.
 
 *Cuando se habla de una contraseña aleatoria se refiere a una contraseña con un determinado grado de aleatoriedad sin basarse necesariamente en los datos propios de una entidad, **no es válido ocupar un dato como contraseña ni añadir algo del tipo** datoXX, XXdato, datoXXdato, etc....
